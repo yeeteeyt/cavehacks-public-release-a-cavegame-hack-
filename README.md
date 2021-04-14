@@ -5,3 +5,15 @@ Please share this, there are not many cavegame.io hacks, and this is a good one 
 And please tell me if it doesn't work. 
 THANK YOU!!!
 <3
+
+
+
+
+also thanks to the people who shared this:
+-Isacc Lapp
+-more soon...
+-
+-
+-
+-
+-
