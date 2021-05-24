@@ -11,9 +11,9 @@ THANK YOU!!!
 
 also thanks to the people who shared this:
 
--Isacc Lapp
+- Isacc Lapp
 
--more soon...
+- more soon...
 
 -
 
