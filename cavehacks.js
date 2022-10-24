@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Keep in mind that i have the power to turn this off when i want. ;)
-// @author       kmccord1
+// @author       kmccord1 and yeeteeyt
 // @match        https://cavegame.io/*
 // @grant        none
 // @run-at       document-start
